@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yogesh Karande
 - 👀 I’m interested in Web and Software Devlopment
-- 🌱 I’m currently learning java & laravel
+- 🌱 I’m currently learning java
 - 📫 How to reach me: yogeshkarande108@gmail.com
 
 <!---
